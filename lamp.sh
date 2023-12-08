@@ -1,5 +1,8 @@
 #!/bin/bash
 #
+# install this script
+# sudo wget -qO- https://raw.githubusercontent.com/2wi/src/main/lamp.sh | bash
+#
 # metadata_begin
 # recipe: LAMP
 # tags: centos,alma8,alma9,rocky8,oracle8,debian,ubuntu1604,ubuntu1804,ubuntu2004
