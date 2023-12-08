@@ -1,4 +1,8 @@
 #!/bin/bash
+#
+# install this script
+# sudo wget -qO- https://raw.githubusercontent.com/2wi/src/main/outline.sh | bash
+#
 # Requires curl and docker to be installed
 
 set -euo pipefail
