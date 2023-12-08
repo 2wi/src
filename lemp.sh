@@ -1,5 +1,8 @@
 #!/bin/bash
 #
+# install this script
+# sudo wget -qO- https://raw.githubusercontent.com/2wi/src/main/lemp.sh | bash
+#
 # metadata_begin
 # recipe: LEMP
 # tags: centos8,alma8,alma9,rocky8,oracle8,debian10,debian11,ubuntu1804,ubuntu2004
