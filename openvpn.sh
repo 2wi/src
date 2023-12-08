@@ -1,5 +1,8 @@
 #!/bin/sh
 #
+# install this script
+# sudo wget -qO- https://raw.githubusercontent.com/2wi/src/main/openvpn.sh | bash
+#
 # metadata_begin
 # recipe: Openvpn
 # tags: centos6,centos7,centos8,debian,ubuntu1804,ubuntu1604,ubuntu2004,rocky8,oracle8,alma8,alma9
